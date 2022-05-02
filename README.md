@@ -1,11 +1,8 @@
 <h1>Solution to the challenge from Frontend Mentor - 3-column preview card component</h1>
 
-This is my solution to the challenge from Frontend Mentor - 3-column preview card component.
-
-
 # Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the 3-column preview card component coding challenge](./images/desktop-preview.jpg)
 
 ## The challenge
 
@@ -20,5 +17,7 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
+
+This is my solution to the challenge from Frontend Mentor - 3-column preview card component.
 
 <img src="some">
