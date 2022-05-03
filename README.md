@@ -18,6 +18,12 @@ Your users should be able to:
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 
-This is my solution to the challenge from Frontend Mentor - 3-column preview card component.
+This is my solution to the challenge from Frontend Mentor - 3-column preview card component:
 
-<img src="some">
+Desktop Design:
+
+<img src="./images/desktop.png">
+
+Mobile Design:
+
+<img src="./images/mobile.png">
